@@ -20,5 +20,5 @@ Doors open at 19.00
 
 ---
 
-Test deploy: edited 2025-11-24 — small change to verify Pages build
+Test deploy: edited 2025-11-24 — small change to verify Pages build.
 
