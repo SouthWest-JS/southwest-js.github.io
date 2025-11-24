@@ -12,7 +12,7 @@ What?  When?  Where?
 
 This month Joe Doe is going to talk to us about JavaScript and why it's wrong.
 
-25th December 2023 at Some Pub
+25th December 2023 at Some Pub.
 
 Doors open at 19.00
 
