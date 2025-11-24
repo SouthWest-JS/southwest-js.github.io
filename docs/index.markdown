@@ -18,3 +18,7 @@ Doors open at 19.00
 
 ![image](https://visitbristol.co.uk/dbimgs/map2(1).JPG)
 
+---
+
+Test deploy: edited 2025-11-24 — small change to verify Pages build
+
