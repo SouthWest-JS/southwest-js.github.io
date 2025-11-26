@@ -18,3 +18,5 @@ Doors open at 19.00
 
 ![image](https://visitbristol.co.uk/dbimgs/map2(1).JPG)
 
+
+<a href="https://southwest.js.org/talks/2025/11/26/when-your-server-has-sails/">https://southwest.js.org/talks/2025/11/26/when-your-server-has-sails/</a>
